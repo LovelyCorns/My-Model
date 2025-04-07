@@ -20,7 +20,7 @@ transformer-v2.py 具备完整transformer结构（除交叉注意力模块）
 
 ## 环境变量
 
-pip3 install torch torchvision torchaudio 
+pip3 install torch torchvision torchaudio safetensors
 
 
 ## 安装
