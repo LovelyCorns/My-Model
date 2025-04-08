@@ -22,12 +22,3 @@ transformer-v2.py 具备完整transformer结构（除交叉注意力模块）
 
 pip3 install torch torchvision torchaudio safetensors
 
-
-## 安装
-
-使用 npm 安装 pytorch
-
-```bash
-  pip3 install torch torchvision torchaudio 
-```
-    
